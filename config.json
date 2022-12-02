@@ -1,0 +1,4 @@
+{
+    "connection_string": "root:secret@tcp(127.0.0.1:3306)/go_crud_api",
+    "port": 8080
+}
